@@ -25,7 +25,7 @@ namespace App1
         public MainPage()
         {
             this.InitializeComponent();
-            this.tbLabel.Text = "Test Project !!";
+            this.tbLabel.Text = "Message Label";
         }
 
         private void ClickedBtnMessage(object sender, RoutedEventArgs e)
