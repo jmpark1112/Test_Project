@@ -25,7 +25,13 @@ namespace App1
         public MainPage()
         {
             this.InitializeComponent();
-            this.tbLabel.Text = "Hello World !!";
+            this.tbLabel.Text = "Test Project !!";
+        }
+
+        private void ClickedBtnMessage(object sender, RoutedEventArgs e)
+        {
+            //this.tbLabel.Text = "Message Button Clicked !!";
+            this.tbLabel.Text = "Edited Action at Github homepage !!";
         }
     }
 }

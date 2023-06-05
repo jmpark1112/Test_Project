@@ -10,6 +10,7 @@
 
     <Grid>
         <TextBox x:Name="tbLabel" HorizontalAlignment="Left" Height="58" Margin="134,74,0,0" Text="TextBox" VerticalAlignment="Top" Width="1006" FontSize="20"/>
+        <Button x:Name="btnMssg" Content="Message" HorizontalAlignment="Left" Height="68" Margin="134,178,0,0" VerticalAlignment="Top" Width="224" Click="ClickedBtnMessage"/>
 
     </Grid>
 </Page>
