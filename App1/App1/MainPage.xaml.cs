@@ -27,5 +27,10 @@ namespace App1
             this.InitializeComponent();
             this.tbLabel.Text = "Hello World !!";
         }
+
+        private void ClickedBtnMessage(object sender, RoutedEventArgs e)
+        {
+            this.tbLabel.Text = "Message Button Clicked !!";
+        }
     }
 }
