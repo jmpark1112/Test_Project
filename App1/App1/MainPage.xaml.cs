@@ -31,7 +31,11 @@ namespace App1
         private void ClickedBtnMessage(object sender, RoutedEventArgs e)
         {
             //this.tbLabel.Text = "Message Button Clicked !!";
-            this.tbLabel.Text = "Edited Action at Github homepage !!";
+            this.tbLabel.Text = "Edited Action at Github homepage !!";            
+        }
+        private void ClickedBtn(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }
