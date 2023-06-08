@@ -1,3 +1,2 @@
 # Test_Project
-For Test
-# Changed
+To test and learn GitHub Function.
