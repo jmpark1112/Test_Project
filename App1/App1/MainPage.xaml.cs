@@ -33,7 +33,7 @@ namespace App1
             //this.tbLabel.Text = "Message Button Clicked !!";
             this.tbLabel.Text = "Edited Action at Github homepage !!";            
         }
-        private void ClickedBtn(object sender, RoutedEventArgs e)
+        private void ClickedBtnPopup(object sender, RoutedEventArgs e)
         {
             //this.tbLabel.Text = "Test";         
         }
