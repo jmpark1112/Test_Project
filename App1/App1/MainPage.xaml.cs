@@ -35,7 +35,7 @@ namespace App1
         }
         private void ClickedBtn(object sender, RoutedEventArgs e)
         {
-            this.tbLabel.Text = "Test";         
+            //this.tbLabel.Text = "Test";         
         }
     }
 }
